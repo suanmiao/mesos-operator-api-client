@@ -1,4 +1,4 @@
 "use strict";
 
-module.exports.masterClient = require("./lib/master/masterClient");
-module.exports.agentClient = require("./lib/agent/agentClient");
+module.exports.MasterClient = require("./lib/master/masterClient");
+module.exports.AgentClient = require("./lib/agent/agentClient");
