@@ -1,6 +1,6 @@
 {
   "name": "mesos-operator-api-client",
-  "version": "0.3.0",
+  "version": "0.1.0",
   "description": "A Node.js client for the Mesos Operator Master and Agent APIs",
   "keywords": [
     "mesos",
@@ -17,7 +17,7 @@
     "publish-please": "publish-please",
     "prepublish": "publish-please guard"
   },
-  "author": "TobiLG",
+  "author": "TobiLG, suanmiao",
   "license": "Apache-2.0",
   "dependencies": {
     "winston": "^2.3.1",
@@ -28,9 +28,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tobilg/mesos-operator-api-client.git"
+    "url": "https://github.com/suanmiao/mesos-operator-api-client.git"
   },
   "bugs": {
-    "url": "https://github.com/tobilg/mesos-operator-api-client/issues"
+    "url": "https://github.com/suanmiao/mesos-operator-api-client/issues"
   }
 }
